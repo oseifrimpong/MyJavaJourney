@@ -1,13 +1,14 @@
 
 V
-squid:S106!"9Replace this use of System.out or System.err by a logger.(žƒûÑ8ü©•½¼-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ü°¸¢øÿÿÿÿ8¶Íö¼¼-
+squid:S106""9Replace this use of System.out or System.err by a logger.(Úóý„8ï¯Œ½¼-
 [
 squid:S106$"9Replace this use of System.out or System.err by a logger.(²³íèþÿÿÿÿ8ß°”½¼-
-V
-squid:S106""9Replace this use of System.out or System.err by a logger.(Úóý„8ï¯Œ½¼-
-Esquid:S1659""Declare "date" on a separate line.(ÕÈãÝþÿÿÿÿ8ê•û¼¼-
 Fsquid:S1659"#Declare "month" on a separate line.(ÕÈãÝþÿÿÿÿ8ê•û¼¼-
 V
 squid:S106#"9Replace this use of System.out or System.err by a logger.(À£Íþ8Ã³–½¼-
+Esquid:S1659""Declare "date" on a separate line.(ÕÈãÝþÿÿÿÿ8ê•û¼¼-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü°¸¢øÿÿÿÿ8¶Íö¼¼-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(žƒûÑ8ü©•½¼-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š§›Œýÿÿÿÿ8„—ž§¾-
