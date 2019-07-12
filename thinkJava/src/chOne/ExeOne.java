@@ -5,12 +5,12 @@
 
 3. Add a comment to the program (anywhere), recompile, and run it again. The new comment should not affect the result.
  */
-package ch_one;
+package chOne;
 
 public class ExeOne {
   public static void main (String [] args){
     System.out.println ("Hello, World!");
-//    I am start Java programming all over again and I feel very positive about this.
+//    I am starting Java programming all over again and I feel very positive about this.
     System.out.println ("How are you?");
   }
 }
